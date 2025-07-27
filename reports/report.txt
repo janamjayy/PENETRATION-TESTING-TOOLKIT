@@ -1,0 +1,32 @@
+
+=== Brute Force Report (2025-07-27 13:33:09) ===
+Target URL: http://127.0.0.1:5000
+[*] Starting brute force on http://127.0.0.1:5000
+[-] Tried: admin:1234
+[-] Tried: admin:admin123
+[+] Credentials found: admin:password123
+
+=== Brute Force Report (2025-07-27 13:34:57) ===
+Target URL: http://127.0.0.1:5000
+[*] Starting brute force on http://127.0.0.1:5000
+[-] Tried: admin:1234
+[-] Tried: admin:admin123
+[+] Credentials found: admin:password123
+
+=== Brute Force Report (2025-07-27 13:42:14) ===
+Target URL: http://127.0.0.1:5000
+[*] Starting brute force on http://127.0.0.1:5000
+[-] Tried: admin:1234
+[-] Tried: admin:admin123
+[-] Tried: admin:password1234
+[-] Tried: test:1234
+[-] Tried: test:admin123
+[-] Tried: test:password1234
+[-] No valid credentials found.
+
+=== Brute Force Report (2025-07-27 13:42:24) ===
+Target URL: http://127.0.0.1:5000
+[*] Starting brute force on http://127.0.0.1:5000
+[-] Tried: admin:1234
+[-] Tried: admin:admin123
+[+] Credentials found: admin:password123
